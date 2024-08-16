@@ -1,4 +1,4 @@
-# Install wdio - This is my code
+# Install wdio
 - npm init wdio .
 
 # Package.json
