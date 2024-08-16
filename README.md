@@ -1,4 +1,4 @@
-# Install wdio --> added for git fetch test
+# Install wdio
 - npm init wdio .
 
 # Package.json
